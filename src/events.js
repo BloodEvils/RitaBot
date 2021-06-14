@@ -94,8 +94,8 @@ exports.listen = function listen (client)
 
          client.user.setPresence({
             "activity": {
-               "name": "ĐȺnǥɇɍøᵾs | ɃłøøđɆvɨłs",
-               "type": "PLAYING"
+               "name": " ĐȺnǥɇɍøᵾs ɃłøøđɆvɨłs",
+               "type": "WATCHING"
             },
             "status": "online"
          });
